@@ -1,0 +1,11 @@
+{
+    "schemaVersion": 1,
+    "authors": [],
+    "environment": "*",
+    "name": "mha",
+    "id": "mha",
+    "version": "1.0.0",
+    "description": "Quirks from MHA",
+    "icon": "logo.png",
+    "license": "All rights reserved"
+}

@@ -1,0 +1,16 @@
+{
+  "pack": {
+    "id": "mha",
+    "description": "Quirks from MHA",
+    "pack_format": 15,
+    "version": "1.0.0"
+  },
+  "dependencies": {
+    "common": {
+    },
+    "fabric": {
+    },
+    "forge": {
+    }
+  }
+}
